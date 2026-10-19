@@ -28,3 +28,11 @@ Run the simulation core locally:
 
 ```bash
 python border_shield_customs.py
+
+
+
+
+----
+
+🪙 Governance & Tokenomics Architecture ($SHIELD)
+BORDER-SHIELD.AI interfaces with a decentralized tokenized infrastructure ($SHIELD) designed for cross-border logistics validation, supply chain integrity tracking, and international customs data synchronization.
