@@ -29,9 +29,7 @@ Run the simulation core locally:
 ```bash
 python border_shield_customs.py
 
-
-
-
+```
 ----
 
 🪙 Governance & Tokenomics Architecture ($SHIELD)
